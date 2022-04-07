@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string-array name="titre">
+        <item>This is an image of the beautifull space </item>
+        <item>This is an image of the beautifull space</item>
+        <item>This is an image of the beautifull space</item>
+        <item>This is an image of the beautifull space</item>
+        <item>This is an image of the beautifull space</item>
+        <item>This is an image of the beautifull space</item>
+        <item>This is an image of the beautifull space</item>
+    </string-array>
+    <string-array name="stit">
+        <item>Space1</item>
+        <item>Space2</item>
+        <item>Space3</item>
+        <item>Space4</item>
+        <item>Space5</item>
+        <item>Space6</item>
+        <item>Space7</item>
+    </string-array>
+</resources>
